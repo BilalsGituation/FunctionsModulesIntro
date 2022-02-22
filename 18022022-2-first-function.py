@@ -1,3 +1,5 @@
+# This is an extremely basic calculator which does + - * and /
+
 def adding(prompt1, prompt2):
     while True:
         try:
